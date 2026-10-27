@@ -1,0 +1,6 @@
+.git
+.openai
+tests
+server.mjs
+README.md
+node_modules
